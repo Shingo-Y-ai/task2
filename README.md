@@ -39,7 +39,7 @@ $ rails server
 ```
 
 
-ユーザーの新規作成やログインなどは既に出来る状態になっているはずです。
+ユーザーの新規作成やログインなどは既に出来る状態になっているはずです。fur
 
 * **email** : sample@email.com
 * **password** : password
