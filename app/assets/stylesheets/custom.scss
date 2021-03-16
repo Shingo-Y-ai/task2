@@ -56,12 +56,12 @@ p {
   background: blue;
 }
 
-#header-list {
+.header-list {
   color: #fff;
   font-weight: bold;
 }
 
-#header-list:hover {
+.header-list:hover {
   color: #808080;
 }
 
@@ -89,6 +89,10 @@ p {
 }
 
 #dropdown-title:hover {
+  color: #808080;
+}
+
+#dropdown-list:hover {
   color: #808080;
 }
 
